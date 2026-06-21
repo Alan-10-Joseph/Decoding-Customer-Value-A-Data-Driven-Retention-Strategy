@@ -96,3 +96,6 @@ Loyalty vs Promo Dependency Analysis
 Geographic Opportunity Analysis
 Category Retention Funnel
 Ideal Customer Profile Insights
+
+<img width="2026" height="1166" alt="image" src="https://github.com/user-attachments/assets/dd193837-9d38-4043-81c7-f984e8a667ca" />
+
