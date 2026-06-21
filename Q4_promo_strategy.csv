@@ -1,0 +1,11 @@
+"Segment","Value_Tier","customer_count","promo_dependency_pct","avg_clv","avg_annual_spend","promoter_pct"
+"Promo Reliant","Premium",424,100.0,8537.48,2601.17,41.3
+"Champions","Premium",551,0.0,8474.88,2631.00,42.8
+"Growth Prospects","High",562,0.0,2903.76,1094.51,43.4
+"Promo Reliant","High",413,100.0,2883.79,1066.45,42.6
+"At-Risk Loyalists","Mid",443,43.1,1053.43,283.63,40.9
+"Growth Prospects","Mid",301,0.0,915.64,411.15,42.2
+"Bargain Hunters","Mid",231,100.0,910.34,410.87,40.3
+"At-Risk Loyalists","Low",324,45.4,283.64,77.03,41.7
+"Bargain Hunters","Low",271,100.0,235.70,114.37,41.7
+"Growth Prospects","Low",380,0.0,230.77,114.27,40.5

@@ -1,0 +1,5 @@
+"Value_Tier","customer_count","avg_age","avg_freq_per_year","avg_prev_purchases","avg_rating","subscription_pct","avg_annual_spend"
+"Premium",975,44.2,38.0,29.7,3.74,28.0,2618.03
+"High",975,43.6,22.8,23.2,3.77,27.4,1082.62
+"Mid",975,44.2,6.7,26.8,3.73,26.8,353.14
+"Low",975,44.2,2.4,21.7,3.76,25.8,101.93

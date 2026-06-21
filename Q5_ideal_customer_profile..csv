@@ -1,0 +1,16 @@
+"Age_Group","Gender","Category","Payment Method","Season","Satisfaction_Flag","count","avg_clv","avg_annual_spend"
+"18-25","Male","Accessories","Cash","Spring","Promoter",4,6425.07,2353.00
+"26-35","Female","Clothing","Credit Card","Spring","Promoter",4,8706.47,2548.00
+"46-55","Female","Clothing","Paypal","Winter","Promoter",3,10297.44,3484.00
+"36-45","Male","Clothing","Cash","Winter","Neutral",3,10612.32,2946.67
+"26-35","Female","Clothing","Venmo","Winter","Promoter",3,6586.19,1776.67
+"56+","Male","Clothing","Debit Card","Fall","Promoter",3,5978.33,1681.33
+"56+","Female","Accessories","Cash","Summer","Promoter",3,6535.65,1776.67
+"56+","Male","Clothing","Bank Transfer","Fall","Promoter",3,6878.75,2186.67
+"56+","Male","Clothing","Cash","Winter","Promoter",3,6891.21,1967.33
+"26-35","Female","Clothing","Credit Card","Fall","Promoter",2,13432.47,3575.00
+"36-45","Male","Footwear","Paypal","Winter","Promoter",2,4220.04,1248.00
+"56+","Female","Accessories","Venmo","Summer","Neutral",2,7131.48,2002.00
+"26-35","Male","Accessories","Credit Card","Winter","Promoter",2,10177.56,2690.00
+"18-25","Female","Outerwear","Bank Transfer","Winter","Promoter",2,2417.49,663.00
+"26-35","Female","Clothing","Cash","Winter","Promoter",2,5732.52,1521.00
